@@ -1,5 +1,6 @@
 # ⌚ Smart Watch Health Monitoring System  
 ### ESP32-Based Smart Health Tracker
+#### An ESP32-based smart watch prototype for essential health tracking with a focus on affordability and accuracy.
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge">
